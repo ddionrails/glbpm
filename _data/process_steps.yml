@@ -1,0 +1,18 @@
+- name: "1 Evaluate and Specify Needs"
+  file: 1-Evaluate-and-Specify-Needs.html
+- name: "2 Design and Redesign"
+  file: 2-Design-and-Redesign.html
+- name: "3 Build and Rebuild"
+  file: 3-Build-and-Rebuild.html
+- name: "4 Collect"
+  file: 4-Collect.html
+- name: "5 Process and Analysis"
+  file: 5-Process-and-Analysis.html
+- name: "6 Archive and Preserve and Curate"
+  file: 6-Archive-and-Preserve-and-Curate.html
+- name: "7 Data Dissemination and Discovery"
+  file: 7-Data-Dissemination-and-Discovery.html
+- name: "8 Research and Publish"
+  file: 8-Research-and-Publish.html
+- name: "9 Retrospective Evaluation"
+  file: 9-Retrospective-Evaluation.html

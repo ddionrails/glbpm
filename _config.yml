@@ -1,0 +1,13 @@
+name: "GLBPM"
+markdown: "kramdown"
+highlighter: true
+encoding: "utf-8"
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "Marcel Hebing"
+      layout: "glbpm"
+kramdown:
+  input: "GFM"

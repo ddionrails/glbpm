@@ -1,0 +1,12 @@
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <a href="."><b>GLBPM Process Steps</b></a>
+  </div>
+  <div class="list-group">
+    {% for process_step in site.data.process_steps %}
+    <a class="list-group-item" href="{{ process_step.file }}">
+      {{ process_step.name }}
+    </a>
+    {% endfor %}
+  </div>
+</div>
